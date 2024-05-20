@@ -1,0 +1,1 @@
+This is simple age calculator made using HTML, CSS and JavaScript, which wil tell your exact age in years, months and days.
